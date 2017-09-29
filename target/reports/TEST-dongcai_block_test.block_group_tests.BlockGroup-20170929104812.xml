@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="dongcai_block_test.block_group_tests.BlockGroup-20170929104812" skipped="0" tests="1" time="0.121">
+	<testcase classname="dongcai_block_test.block_group_tests.BlockGroup" name="test_block_group" time="0.121"/>
+	<system-out>
+<![CDATA[('block_groups = ', [u'\u6982\u5ff5\u677f\u5757', u'\u5730\u533a\u677f\u5757', u'\u884c\u4e1a\u677f\u5757'])
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

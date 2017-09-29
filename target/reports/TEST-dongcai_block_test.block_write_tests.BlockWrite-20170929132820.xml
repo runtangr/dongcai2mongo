@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="2" failures="0" name="dongcai_block_test.block_write_tests.BlockWrite-20170929132820" skipped="0" tests="2" time="3.008">
+	<testcase classname="dongcai_block_test.block_write_tests.BlockWrite" name="test_block_section_stock" time="2.700">
+		<error message="can't start new thread" type="error">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_write_tests.py", line 40, in test_block_section_stock
+    db = self._connect_mongo()
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_write_tests.py", line 16, in _connect_mongo
+    client = MongoClient(host)
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/mongo_client.py", line 461, in __init__
+    self._topology.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/topology.py", line 151, in open
+    self._ensure_opened()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/topology.py", line 378, in _ensure_opened
+    self._update_servers()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/topology.py", line 441, in _update_servers
+    server.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/server.py", line 46, in open
+    self._monitor.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/monitor.py", line 78, in open
+    self._executor.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/periodic_executor.py", line 83, in open
+    thread.start()
+  File "/usr/lib/python2.7/threading.py", line 736, in start
+    _start_new_thread(self.__bootstrap, ())
+error: can't start new thread
+]]>		</error>
+	</testcase>
+	<testcase classname="dongcai_block_test.block_write_tests.BlockWrite" name="test_save_data" time="0.308">
+		<error message="can't start new thread" type="error">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_write_tests.py", line 22, in test_save_data
+    db = self._connect_mongo()
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_write_tests.py", line 16, in _connect_mongo
+    client = MongoClient(host)
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/mongo_client.py", line 461, in __init__
+    self._topology.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/topology.py", line 151, in open
+    self._ensure_opened()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/topology.py", line 378, in _ensure_opened
+    self._update_servers()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/topology.py", line 441, in _update_servers
+    server.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/server.py", line 46, in open
+    self._monitor.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/monitor.py", line 78, in open
+    self._executor.open()
+  File "/usr/local/lib/python2.7/dist-packages/pymongo/periodic_executor.py", line 83, in open
+    thread.start()
+  File "/usr/lib/python2.7/threading.py", line 736, in start
+    _start_new_thread(self.__bootstrap, ())
+error: can't start new thread
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.block_group_tests.BlockGroup-20170929112046" skipped="0" tests="1" time="0.110">
+	<testcase classname="dongcai_block_test.block_group_tests.BlockGroup" name="test_block_group" time="0.110">
+		<error message="global name 'block_groups' is not defined" type="NameError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_group_tests.py", line 21, in test_block_group
+    block_groups = block_group.block_group(self._block_data)
+  File "/home/tangr/work/f10_project/f10_new_block/src/main/python/dongcai_block/block_group.py", line 11, in block_group
+    block_groups.append(block_data["TypeName"])
+NameError: global name 'block_groups' is not defined
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

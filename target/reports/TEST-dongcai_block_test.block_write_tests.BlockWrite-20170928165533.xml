@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.block_write_tests.BlockWrite-20170928165533" skipped="0" tests="1" time="0.003">
+	<testcase classname="dongcai_block_test.block_write_tests.BlockWrite" name="test_save_data" time="0.003">
+		<error message="global name 'block_data' is not defined" type="NameError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_write_tests.py", line 36, in test_save_data
+    block_write.save_data(db,  block_data)
+  File "/home/tangr/work/f10_project/f10_new_block/src/main/python/dongcai_block/block_write.py", line 12, in save_data
+    save_block(db, block_data)
+  File "/home/tangr/work/f10_project/f10_new_block/src/main/python/dongcai_block/block_write.py", line 7, in save_block
+    db["f10_6_1_block_section_dc"].insert(block_data)
+NameError: global name 'block_data' is not defined
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

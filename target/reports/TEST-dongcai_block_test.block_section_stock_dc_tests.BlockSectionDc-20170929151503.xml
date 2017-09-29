@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.block_section_stock_dc_tests.BlockSectionDc-20170929151503" skipped="0" tests="1" time="0.153">
+	<testcase classname="dongcai_block_test.block_section_stock_dc_tests.BlockSectionDc" name="test_write_block_stock" time="0.153">
+		<error message="block_view() takes exactly 2 arguments (1 given)" type="TypeError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_section_stock_dc_tests.py", line 28, in test_write_block_stock
+    block_datas = block_read.block_view(self._block_data)
+TypeError: block_view() takes exactly 2 arguments (1 given)
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

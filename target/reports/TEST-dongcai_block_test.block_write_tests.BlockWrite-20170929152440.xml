@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="dongcai_block_test.block_write_tests.BlockWrite-20170929152440" skipped="0" tests="2" time="0.014">
+	<testcase classname="dongcai_block_test.block_write_tests.BlockWrite" name="test_block_section_stock" time="0.008"/>
+	<testcase classname="dongcai_block_test.block_write_tests.BlockWrite" name="test_save_data" time="0.006"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

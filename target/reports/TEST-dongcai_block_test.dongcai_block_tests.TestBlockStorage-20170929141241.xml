@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="dongcai_block_test.dongcai_block_tests.TestBlockStorage-20170929141241" skipped="0" tests="2" time="0.311">
+	<testcase classname="dongcai_block_test.dongcai_block_tests.TestBlockStorage" name="test_block_view" time="0.187"/>
+	<testcase classname="dongcai_block_test.dongcai_block_tests.TestBlockStorage" name="test_view" time="0.124"/>
+	<system-out>
+<![CDATA[{u'Code': u'SZ000797', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u6b66\u5937', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中国武夷
+SZ000797
+行业板块
+房地产
+{u'Code': u'SZ000537', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e7f\u5b87\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+广宇发展
+SZ000537
+行业板块
+房地产
+{u'Code': u'SH600848', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e0a\u6d77\u4e34\u6e2f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+上海临港
+SH600848
+行业板块
+房地产
+{u'Code': u'SZ000402', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u878d\u8857', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+金融街
+SZ000402
+行业板块
+房地产
+{u'Code': u'SH600266', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5317\u4eac\u57ce\u5efa', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+北京城建
+SH600266
+行业板块
+房地产
+{u'Code': u'SH600622', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5609\u5b9d\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+嘉宝集团
+SH600622
+行业板块
+房地产
+{u'Code': u'SH600791', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4eac\u80fd\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+京能置业
+SH600791
+行业板块
+房地产
+{u'Code': u'SH600159', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u9f99\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+大龙地产
+SH600159
+行业板块
+房地产
+{u'Code': u'SH600322', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u623f\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+天房发展
+SH600322
+行业板块
+房地产
+{u'Code': u'SH600743', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u8fdc\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华远地产
+SH600743
+行业板块
+房地产
+{u'Code': u'SH600376', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9996\u5f00\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+首开股份
+SH600376
+行业板块
+房地产
+{u'Code': u'SH900939', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6c47\u4e3dB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+汇丽B
+SH900939
+行业板块
+房地产
+{u'Code': u'SZ000620', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u534e\u8054', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+新华联
+SZ000620
+行业板块
+房地产
+{u'Code': u'SZ200160', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e1c\u6ca3B', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+东沣B
+SZ200160
+行业板块
+房地产
+{u'Code': u'SH600683', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4eac\u6295\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+京投发展
+SH600683
+行业板块
+房地产
+{u'Code': u'SZ002285', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u8054\u884c', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+世联行
+SZ002285
+行业板块
+房地产
+{u'Code': u'SH600246', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u901a\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+万通地产
+SH600246
+行业板块
+房地产
+{u'Code': u'SH900928', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e34\u6e2fB\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+临港B股
+SH900928
+行业板块
+房地产
+{u'Code': u'SH600734', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5b9e\u8fbe\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+实达集团
+SH600734
+行业板块
+房地产
+{u'Code': u'SZ000931', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5173\u6751', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中关村
+SZ000931
+行业板块
+房地产
+{u'Code': u'SZ000736', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u623f\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中房地产
+SZ000736
+行业板块
+房地产
+{u'Code': u'SH600657', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4fe1\u8fbe\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+信达地产
+SH600657
+行业板块
+房地产
+{u'Code': u'SZ000918', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5609\u51ef\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+嘉凯城
+SZ000918
+行业板块
+房地产
+{u'Code': u'SH900902', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e02\u5317B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+市北B股
+SH900902
+行业板块
+房地产
+{u'Code': u'SH600503', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u4e3d\u5bb6\u65cf', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华丽家族
+SH600503
+行业板块
+房地产
+{u'Code': u'SZ200505', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u73e0\u6c5fB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+珠江B
+SZ200505
+行业板块
+房地产
+{u'Code': u'SH600007', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u56fd\u8d38', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中国国贸
+SH600007
+行业板块
+房地产
+{u'Code': u'SZ000573', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7ca4\u5b8f\u8fdcA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+粤宏远A
+SZ000573
+行业板块
+房地产
+{u'Code': u'SZ000567', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u5fb7\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+海德股份
+SZ000567
+行业板块
+房地产
+{u'Code': u'SH600684', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u73e0\u6c5f\u5b9e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+珠江实业
+SH600684
+行业板块
+房地产
+{u'Code': u'SH600240', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u4e1a\u8d44\u672c', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华业资本
+SH600240
+行业板块
+房地产
+{u'Code': u'SH600225', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u677e\u6c5f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+*ST松江
+SH600225
+行业板块
+房地产
+{u'Code': u'SZ000046', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6cdb\u6d77\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+泛海控股
+SZ000046
+行业板块
+房地产
+{u'Code': u'SH600067', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u51a0\u57ce\u5927\u901a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+冠城大通
+SH600067
+行业板块
+房地产
+{u'Code': u'SZ002016', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u8363\u5146\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+世荣兆业
+SZ002016
+行业板块
+房地产
+{u'Code': u'SH600048', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4fdd\u5229\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+保利地产
+SH600048
+行业板块
+房地产
+{u'Code': u'SZ002208', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5408\u80a5\u57ce\u5efa', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+合肥城建
+SZ002208
+行业板块
+房地产
+{u'Code': u'SH600149', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u574a\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+*ST坊展
+SH600149
+行业板块
+房地产
+{u'Code': u'SH600515', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u822a\u57fa\u7840', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+海航基础
+SH600515
+行业板块
+房地产
+{u'Code': u'SZ000609', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7ef5\u77f3\u6295\u8d44', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+绵石投资
+SZ000609
+行业板块
+房地产
+{u'Code': u'SZ002146', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8363\u76db\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+荣盛发展
+SZ002146
+行业板块
+房地产
+{u'Code': u'SZ000005', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u7eaa\u661f\u6e90', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+世纪星源
+SZ000005
+行业板块
+房地产
+{u'Code': u'SH600641', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u4e1a\u4f01\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+万业企业
+SH600641
+行业板块
+房地产
+{u'Code': u'SZ000009', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u5b9d\u5b89', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中国宝安
+SZ000009
+行业板块
+房地产
+{u'Code': u'SZ000667', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7f8e\u597d\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+美好置业
+SZ000667
+行业板块
+房地产
+{u'Code': u'SZ000965', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u4fdd\u57fa\u5efa', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+天保基建
+SZ000965
+行业板块
+房地产
+{u'Code': u'SH600234', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'ST\u5c71\u6c34', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+ST山水
+SH600234
+行业板块
+房地产
+{u'Code': u'SH600604', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e02\u5317\u9ad8\u65b0', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+市北高新
+SH600604
+行业板块
+房地产
+{u'Code': u'SH600823', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u8302\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+世茂股份
+SH600823
+行业板块
+房地产
+{u'Code': u'SZ000505', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u73e0\u6c5f\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+珠江控股
+SZ000505
+行业板块
+房地产
+{u'Code': u'SH600716', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u51e4\u51f0\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+凤凰股份
+SH600716
+行业板块
+房地产
+{u'Code': u'SZ000011', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u7269\u4e1aA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+深物业A
+SZ000011
+行业板块
+房地产
+{u'Code': u'SZ000897', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d25\u6ee8\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+津滨发展
+SZ000897
+行业板块
+房地产
+{u'Code': u'SZ000671', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9633\u5149\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+阳光城
+SZ000671
+行业板块
+房地产
+{u'Code': u'SH600638', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u9ec4\u6d66', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+新黄浦
+SH600638
+行业板块
+房地产
+{u'Code': u'SZ002305', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5357\u56fd\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+南国置业
+SZ002305
+行业板块
+房地产
+{u'Code': u'SH600736', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u82cf\u5dde\u9ad8\u65b0', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+苏州高新
+SH600736
+行业板块
+房地产
+{u'Code': u'SH600082', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u6cf0\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+海泰发展
+SH600082
+行业板块
+房地产
+{u'Code': u'SH600665', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u5730\u6e90', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+天地源
+SH600665
+行业板块
+房地产
+{u'Code': u'SZ002244', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6ee8\u6c5f\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+滨江集团
+SZ002244
+行业板块
+房地产
+{u'Code': u'SZ002133', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e7f\u5b87\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+广宇集团
+SZ002133
+行业板块
+房地产
+{u'Code': u'SH900940', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u540d\u57ceB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+大名城B
+SH900940
+行业板块
+房地产
+{u'Code': u'SH600692', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e9a\u901a\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+亚通股份
+SH600692
+行业板块
+房地产
+{u'Code': u'SH600325', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u53d1\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华发股份
+SH600325
+行业板块
+房地产
+{u'Code': u'SZ000732', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6cf0\u79be\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+泰禾集团
+SZ000732
+行业板块
+房地产
+{u'Code': u'SH600215', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u957f\u6625\u7ecf\u5f00', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+长春经开
+SH600215
+行业板块
+房地产
+{u'Code': u'SH600185', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u683c\u529b\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+格力地产
+SH600185
+行业板块
+房地产
+{u'Code': u'SZ000517', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8363\u5b89\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+荣安地产
+SZ000517
+行业板块
+房地产
+{u'Code': u'SH600753', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e1c\u65b9\u94f6\u661f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+东方银星
+SH600753
+行业板块
+房地产
+{u'Code': u'SH600724', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5b81\u6ce2\u5bcc\u8fbe', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+宁波富达
+SH600724
+行业板块
+房地产
+{u'Code': u'SH600732', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'ST\u65b0\u6885', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+ST新梅
+SH600732
+行业板块
+房地产
+{u'Code': u'SH900911', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u6865B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+金桥B股
+SH900911
+行业板块
+房地产
+{u'Code': u'SH600463', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7a7a\u6e2f\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+空港股份
+SH600463
+行业板块
+房地产
+{u'Code': u'SH900912', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5916\u9ad8B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+外高B股
+SH900912
+行业板块
+房地产
+{u'Code': u'SH601155', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u57ce\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+新城控股
+SH601155
+行业板块
+房地产
+{u'Code': u'SH600730', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中国高科
+SH600730
+行业板块
+房地产
+{u'Code': u'SH600565', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8fea\u9a6c\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+迪马股份
+SH600565
+行业板块
+房地产
+{u'Code': u'SZ000014', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6c99\u6cb3\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+沙河股份
+SZ000014
+行业板块
+房地产
+{u'Code': u'SZ000668', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8363\u4e30\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+荣丰控股
+SZ000668
+行业板块
+房地产
+{u'Code': u'SZ000502', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7eff\u666f\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+绿景控股
+SZ000502
+行业板块
+房地产
+{u'Code': u'SH600533', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6816\u971e\u5efa\u8bbe', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+栖霞建设
+SH600533
+行业板块
+房地产
+{u'Code': u'SZ002077', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u6e2f\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+大港股份
+SZ002077
+行业板块
+房地产
+{u'Code': u'SH600173', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5367\u9f99\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+卧龙地产
+SH600173
+行业板块
+房地产
+{u'Code': u'SZ000002', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u79d1A', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+万科A
+SZ000002
+行业板块
+房地产
+{u'Code': u'SZ000863', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e09\u6e58\u5370\u8c61', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+三湘印象
+SZ000863
+行业板块
+房地产
+{u'Code': u'SH900932', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9646\u5bb6B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+陆家B股
+SH900932
+行业板块
+房地产
+{u'Code': u'SZ000056', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7687\u5ead\u56fd\u9645', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+皇庭国际
+SZ000056
+行业板块
+房地产
+{u'Code': u'SH600113', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d59\u6c5f\u4e1c\u65e5', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+浙江东日
+SH600113
+行业板块
+房地产
+{u'Code': u'SZ000042', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u6d32\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中洲控股
+SZ000042
+行业板块
+房地产
+{u'Code': u'SH600696', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u5339\u51f8', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+*ST匹凸
+SH600696
+行业板块
+房地产
+{u'Code': u'SH600748', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e0a\u5b9e\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+上实发展
+SH600748
+行业板块
+房地产
+{u'Code': u'SH600606', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7eff\u5730\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+绿地控股
+SH600606
+行业板块
+房地产
+{u'Code': u'SH600064', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5357\u4eac\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+南京高科
+SH600064
+行业板块
+房地产
+{u'Code': u'SZ000514', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6e1d\u5f00\u53d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+渝开发
+SZ000514
+行业板块
+房地产
+{u'Code': u'SZ000036', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u8054\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华联控股
+SZ000036
+行业板块
+房地产
+{u'Code': u'SZ000043', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u822a\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中航地产
+SZ000043
+行业板块
+房地产
+{u'Code': u'SH600383', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u5730\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+金地集团
+SH600383
+行业板块
+房地产
+{u'Code': u'SZ002147', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u5149\u5706\u6210', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+新光圆成
+SZ002147
+行业板块
+房地产
+{u'Code': u'SZ000558', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u83b1\u8335\u4f53\u80b2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+莱茵体育
+SZ000558
+行业板块
+房地产
+{u'Code': u'SZ000861', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u5370\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+海印股份
+SZ000861
+行业板块
+房地产
+{u'Code': u'SH600708', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5149\u660e\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+光明地产
+SH600708
+行业板块
+房地产
+{u'Code': u'SZ000631', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u987a\u53d1\u6052\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+顺发恒业
+SZ000631
+行业板块
+房地产
+{u'Code': u'SH600675', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u534e\u4f01\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中华企业
+SH600675
+行业板块
+房地产
+{u'Code': u'SH600162', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9999\u6c5f\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+香江控股
+SH600162
+行业板块
+房地产
+{u'Code': u'SH600177', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u96c5\u6208\u5c14', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+雅戈尔
+SH600177
+行业板块
+房地产
+{u'Code': u'SH600223', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9c81\u5546\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+鲁商置业
+SH600223
+行业板块
+房地产
+{u'Code': u'SZ001979', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u62db\u5546\u86c7\u53e3', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+招商蛇口
+SZ001979
+行业板块
+房地产
+{u'Code': u'SH600658', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7535\u5b50\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+电子城
+SH600658
+行业板块
+房地产
+{u'Code': u'SH600649', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u57ce\u6295\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+城投控股
+SH600649
+行业板块
+房地产
+{u'Code': u'SH600094', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u540d\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+大名城
+SH600094
+行业板块
+房地产
+{u'Code': u'SZ002314', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5357\u5c71\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+南山控股
+SZ002314
+行业板块
+房地产
+{u'Code': u'SZ000718', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u82cf\u5b81\u73af\u7403', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+苏宁环球
+SZ000718
+行业板块
+房地产
+{u'Code': u'SZ200056', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7687\u5eadB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+皇庭B
+SZ200056
+行业板块
+房地产
+{u'Code': u'SZ000616', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u822a\u6295\u8d44', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+海航投资
+SZ000616
+行业板块
+房地产
+{u'Code': u'SH600077', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5b8b\u90fd\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+宋都股份
+SH600077
+行业板块
+房地产
+{u'Code': u'SH600639', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d66\u4e1c\u91d1\u6865', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+浦东金桥
+SH600639
+行业板块
+房地产
+{u'Code': u'SH600393', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7ca4\u6cf0\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+粤泰股份
+SH600393
+行业板块
+房地产
+{u'Code': u'SZ000961', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5357\u5efa\u8bbe', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中南建设
+SZ000961
+行业板块
+房地产
+{u'Code': u'SH601588', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5317\u8fb0\u5b9e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+北辰实业
+SH601588
+行业板块
+房地产
+{u'Code': u'SH600340', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u590f\u5e78\u798f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华夏幸福
+SH600340
+行业板块
+房地产
+{u'Code': u'SH600807', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u4e1a\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+天业股份
+SH600807
+行业板块
+房地产
+{u'Code': u'SH600648', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5916\u9ad8\u6865', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+外高桥
+SH600648
+行业板块
+房地产
+{u'Code': u'SZ000656', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u79d1\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+金科股份
+SZ000656
+行业板块
+房地产
+{u'Code': u'SH600895', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5f20\u6c5f\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+张江高科
+SH600895
+行业板块
+房地产
+{u'Code': u'SZ000981', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u94f6\u4ebf\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+银亿股份
+SZ000981
+行业板块
+房地产
+{u'Code': u'SH600208', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u6e56\u4e2d\u5b9d', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+新湖中宝
+SH600208
+行业板块
+房地产
+{u'Code': u'SZ000809', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u65b0\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+*ST新城
+SZ000809
+行业板块
+房地产
+{u'Code': u'SZ000926', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u798f\u661f\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+福星股份
+SZ000926
+行业板块
+房地产
+{u'Code': u'SH600773', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u897f\u85cf\u57ce\u6295', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+西藏城投
+SH600773
+行业板块
+房地产
+{u'Code': u'SZ000691', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'ST\u4e9a\u592a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+ST亚太
+SZ000691
+行业板块
+房地产
+{u'Code': u'SH600275', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u660c\u9c7c', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+*ST昌鱼
+SH600275
+行业板块
+房地产
+{u'Code': u'SZ000534', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u6cfd\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+万泽股份
+SZ000534
+行业板块
+房地产
+{u'Code': u'SZ200011', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u7269\u4e1aB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+深物业B
+SZ200011
+行业板块
+房地产
+{u'Code': u'SH600095', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u54c8\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+哈高科
+SH600095
+行业板块
+房地产
+{u'Code': u'SH600663', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9646\u5bb6\u5634', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+陆家嘴
+SH600663
+行业板块
+房地产
+{u'Code': u'SH600466', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u84dd\u5149\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+蓝光发展
+SH600466
+行业板块
+房地产
+{u'Code': u'SZ000069', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u4fa8\u57ceA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+华侨城A
+SZ000069
+行业板块
+房地产
+{u'Code': u'SH600052', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d59\u6c5f\u5e7f\u53a6', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+浙江广厦
+SH600052
+行业板块
+房地产
+{u'Code': u'SZ000006', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u632f\u4e1aA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+深振业A
+SZ000006
+行业板块
+房地产
+{u'Code': u'SH600733', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'S*ST\u524d\u950b', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+S*ST前锋
+SH600733
+行业板块
+房地产
+{u'Code': u'SZ000838', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8d22\u4fe1\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+财信发展
+SZ000838
+行业板块
+房地产
+{u'Code': u'SZ000615', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4eac\u6c49\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+京汉股份
+SZ000615
+行业板块
+房地产
+{u'Code': u'SH600239', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e91\u5357\u57ce\u6295', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+云南城投
+SH600239
+行业板块
+房地产
+{u'Code': u'SZ000638', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u65b9\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+万方发展
+SZ000638
+行业板块
+房地产
+{u'Code': u'SZ000979', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5f18\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中弘股份
+SZ000979
+行业板块
+房地产
+{u'Code': u'SZ000029', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u6df1\u623fA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+深深房A
+SZ000029
+行业板块
+房地产
+{u'Code': u'SZ000608', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9633\u5149\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+阳光股份
+SZ000608
+行业板块
+房地产
+{u'Code': u'SZ000031', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u7cae\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中粮地产
+SZ000031
+行业板块
+房地产
+{u'Code': u'SZ000540', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5929\u91d1\u878d', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+中天金融
+SZ000540
+行业板块
+房地产
+{u'Code': u'SZ200029', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u6df1\u623fB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+深深房B
+SZ200029
+行业板块
+房地产
+{u'Code': u'SZ002113', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u6da6\u6570\u5a31', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}
+天润数娱
+SZ002113
+行业板块
+房地产
+('block_views =', [{u'Code': u'SZ000797', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u6b66\u5937', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000537', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e7f\u5b87\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600848', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e0a\u6d77\u4e34\u6e2f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000402', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u878d\u8857', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600266', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5317\u4eac\u57ce\u5efa', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600622', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5609\u5b9d\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600791', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4eac\u80fd\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600159', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u9f99\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600322', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u623f\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600743', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u8fdc\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600376', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9996\u5f00\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900939', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6c47\u4e3dB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000620', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u534e\u8054', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ200160', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e1c\u6ca3B', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600683', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4eac\u6295\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002285', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u8054\u884c', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600246', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u901a\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900928', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e34\u6e2fB\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600734', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5b9e\u8fbe\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000931', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5173\u6751', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000736', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u623f\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600657', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4fe1\u8fbe\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000918', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5609\u51ef\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900902', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e02\u5317B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600503', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u4e3d\u5bb6\u65cf', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ200505', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u73e0\u6c5fB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600007', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u56fd\u8d38', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000573', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7ca4\u5b8f\u8fdcA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000567', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u5fb7\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600684', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u73e0\u6c5f\u5b9e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600240', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u4e1a\u8d44\u672c', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600225', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u677e\u6c5f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000046', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6cdb\u6d77\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600067', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u51a0\u57ce\u5927\u901a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002016', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u8363\u5146\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600048', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4fdd\u5229\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002208', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5408\u80a5\u57ce\u5efa', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600149', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u574a\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600515', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u822a\u57fa\u7840', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000609', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7ef5\u77f3\u6295\u8d44', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002146', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8363\u76db\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000005', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u7eaa\u661f\u6e90', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600641', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u4e1a\u4f01\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000009', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u5b9d\u5b89', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000667', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7f8e\u597d\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000965', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u4fdd\u57fa\u5efa', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600234', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'ST\u5c71\u6c34', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600604', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e02\u5317\u9ad8\u65b0', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600823', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e16\u8302\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000505', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u73e0\u6c5f\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600716', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u51e4\u51f0\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000011', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u7269\u4e1aA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000897', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d25\u6ee8\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000671', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9633\u5149\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600638', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u9ec4\u6d66', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002305', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5357\u56fd\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600736', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u82cf\u5dde\u9ad8\u65b0', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600082', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u6cf0\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600665', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u5730\u6e90', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002244', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6ee8\u6c5f\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002133', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5e7f\u5b87\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900940', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u540d\u57ceB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600692', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e9a\u901a\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600325', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u53d1\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000732', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6cf0\u79be\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600215', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u957f\u6625\u7ecf\u5f00', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600185', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u683c\u529b\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000517', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8363\u5b89\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600753', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e1c\u65b9\u94f6\u661f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600724', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5b81\u6ce2\u5bcc\u8fbe', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600732', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'ST\u65b0\u6885', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900911', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u6865B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600463', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7a7a\u6e2f\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900912', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5916\u9ad8B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH601155', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u57ce\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600730', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u56fd\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600565', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8fea\u9a6c\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000014', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6c99\u6cb3\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000668', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8363\u4e30\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000502', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7eff\u666f\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600533', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6816\u971e\u5efa\u8bbe', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002077', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u6e2f\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600173', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5367\u9f99\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000002', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u79d1A', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000863', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e09\u6e58\u5370\u8c61', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH900932', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9646\u5bb6B\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000056', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7687\u5ead\u56fd\u9645', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600113', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d59\u6c5f\u4e1c\u65e5', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000042', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u6d32\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600696', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u5339\u51f8', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600748', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e0a\u5b9e\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600606', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7eff\u5730\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600064', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5357\u4eac\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000514', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6e1d\u5f00\u53d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000036', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u8054\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000043', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u822a\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600383', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u5730\u96c6\u56e2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002147', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u5149\u5706\u6210', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000558', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u83b1\u8335\u4f53\u80b2', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000861', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u5370\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600708', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5149\u660e\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000631', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u987a\u53d1\u6052\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600675', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u534e\u4f01\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600162', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9999\u6c5f\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600177', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u96c5\u6208\u5c14', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600223', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9c81\u5546\u7f6e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ001979', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u62db\u5546\u86c7\u53e3', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600658', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7535\u5b50\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600649', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u57ce\u6295\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600094', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5927\u540d\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002314', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5357\u5c71\u63a7\u80a1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000718', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u82cf\u5b81\u73af\u7403', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ200056', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7687\u5eadB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000616', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d77\u822a\u6295\u8d44', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600077', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5b8b\u90fd\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600639', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d66\u4e1c\u91d1\u6865', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600393', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u7ca4\u6cf0\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000961', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5357\u5efa\u8bbe', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH601588', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5317\u8fb0\u5b9e\u4e1a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600340', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u590f\u5e78\u798f', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600807', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u4e1a\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600648', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5916\u9ad8\u6865', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000656', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u91d1\u79d1\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600895', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5f20\u6c5f\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000981', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u94f6\u4ebf\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600208', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u65b0\u6e56\u4e2d\u5b9d', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000809', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u65b0\u57ce', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000926', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u798f\u661f\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600773', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u897f\u85cf\u57ce\u6295', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000691', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'ST\u4e9a\u592a', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600275', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'*ST\u660c\u9c7c', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000534', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u6cfd\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ200011', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u7269\u4e1aB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600095', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u54c8\u9ad8\u79d1', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600663', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9646\u5bb6\u5634', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600466', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u84dd\u5149\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000069', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u534e\u4fa8\u57ceA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600052', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6d59\u6c5f\u5e7f\u53a6', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000006', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u632f\u4e1aA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600733', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'S*ST\u524d\u950b', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000838', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u8d22\u4fe1\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000615', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4eac\u6c49\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SH600239', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e91\u5357\u57ce\u6295', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000638', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e07\u65b9\u53d1\u5c55', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000979', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5f18\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000029', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u6df1\u623fA', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000608', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u9633\u5149\u80a1\u4efd', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000031', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u7cae\u5730\u4ea7', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ000540', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u4e2d\u5929\u91d1\u878d', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ200029', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u6df1\u6df1\u623fB', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}, {u'Code': u'SZ002113', u'PlateName': u'\u884c\u4e1a\u677f\u5757', u'Name': u'\u5929\u6da6\u6570\u5a31', u'TypeName': u'\u623f\u5730\u4ea7', u'SysCode': u'DH00451', u'Date': u'2017-09-27', u'TypeZm': u'F'}])
+{u'Code': u'SZ000488', u'PlateName': u'\u6982\u5ff5\u677f\u5757', u'Name': u'\u6668\u9e23\u7eb8\u4e1a', u'TypeName': u'AB\u80a1', u'SysCode': u'DG00498', u'Date': u'2017-09-27', u'TypeZm': u'A'}
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.dongcai_block_tests.TestBlockStorage-20170928174759" skipped="0" tests="2" time="0.165">
+	<testcase classname="dongcai_block_test.dongcai_block_tests.TestBlockStorage" name="test_view" time="0.165"/>
+	<testcase classname="dongcai_block_test.dongcai_block_tests.TestBlockStorage" name="test_block_view" time="0.000">
+		<error message="'TestBlockStorage' object has no attribute '_block_data'" type="AttributeError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/dongcai_block_tests.py", line 37, in test_block_view
+    block_views = block_read.block_view(self._block_data)
+AttributeError: 'TestBlockStorage' object has no attribute '_block_data'
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[{u'Code': u'SZ000488', u'PlateName': u'\u6982\u5ff5\u677f\u5757', u'Name': u'\u6668\u9e23\u7eb8\u4e1a', u'TypeName': u'AB\u80a1', u'SysCode': u'DG00498', u'Date': u'2017-09-27', u'TypeZm': u'A'}
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

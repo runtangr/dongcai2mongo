@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.block_group_tests.BlockGroup-20170929104727" skipped="0" tests="1" time="0.120">
+	<testcase classname="dongcai_block_test.block_group_tests.BlockGroup" name="test_block_group" time="0.120">
+		<error message="'module' object is not callable" type="TypeError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_group_tests.py", line 21, in test_block_group
+    block_groups = block_group(self._block_data)
+TypeError: 'module' object is not callable
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

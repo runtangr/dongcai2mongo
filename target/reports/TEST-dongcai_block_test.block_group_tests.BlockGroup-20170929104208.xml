@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.block_group_tests.BlockGroup-20170929104208" skipped="0" tests="1" time="0.115">
+	<testcase classname="dongcai_block_test.block_group_tests.BlockGroup" name="test_block_group" time="0.115">
+		<error message="'module' object has no attribute 'block_group'" type="AttributeError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_group_tests.py", line 21, in test_block_group
+    block_groups = block_group.block_group(self._block_data)
+AttributeError: 'module' object has no attribute 'block_group'
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

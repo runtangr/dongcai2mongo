@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="dongcai_block_test.section_builder_tests.SectionBuild-20170929141055" skipped="0" tests="1" time="0.000">
+	<testcase classname="dongcai_block_test.section_builder_tests.SectionBuild" name="test_section_build_stock" time="0.000"/>
+	<system-out>
+<![CDATA[('rest = ', {'ClassId': u'00451', 'SectionNameH': u'\u623f\u5730\u4ea7', 'Obj': u'SH600639', 'MarketCode': u'SH', 'SectionName': u'\u623f\u5730\u4ea7', 'PlateCode': u'SH600639', 'StockShortName': u'\u6d66\u4e1c\u91d1\u6865', 'bzzb': 0, 'SectionLevel': '0', 'SysCode': u'\u884c\u4e1a\u677f\u5757', 'StockCode': u'600639'})
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

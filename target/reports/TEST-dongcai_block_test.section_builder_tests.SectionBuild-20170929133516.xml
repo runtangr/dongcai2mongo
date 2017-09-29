@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.section_builder_tests.SectionBuild-20170929133516" skipped="0" tests="1" time="0.000">
+	<testcase classname="dongcai_block_test.section_builder_tests.SectionBuild" name="test_section_build_stock" time="0.000">
+		<error message="'StockCode'" type="KeyError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/section_builder_tests.py", line 23, in test_section_build_stock
+    self.assertTrue(rest["StockCode"]==u'600639')
+KeyError: 'StockCode'
+
+Stdout:
+('rest = ', {})
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[('rest = ', {})
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

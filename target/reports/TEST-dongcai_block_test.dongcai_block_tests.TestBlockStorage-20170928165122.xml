@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="2" failures="0" name="dongcai_block_test.dongcai_block_tests.TestBlockStorage-20170928165122" skipped="0" tests="2" time="0.000">
+	<testcase classname="dongcai_block_test.dongcai_block_tests.TestBlockStorage" name="test_block_view" time="0.000">
+		<error message="[Errno 2] No such file or directory: '2017-09-27.txt'" type="IOError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/dongcai_block_tests.py", line 22, in test_block_view
+    self._read_data()
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/dongcai_block_tests.py", line 12, in _read_data
+    with open(file_path) as json_file:
+IOError: [Errno 2] No such file or directory: '2017-09-27.txt'
+]]>		</error>
+	</testcase>
+	<testcase classname="dongcai_block_test.dongcai_block_tests.TestBlockStorage" name="test_view" time="0.000">
+		<error message="[Errno 2] No such file or directory: '2017-09-27.txt'" type="IOError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/dongcai_block_tests.py", line 17, in test_view
+    self._read_data()
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/dongcai_block_tests.py", line 12, in _read_data
+    with open(file_path) as json_file:
+IOError: [Errno 2] No such file or directory: '2017-09-27.txt'
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

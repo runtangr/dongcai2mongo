@@ -1,0 +1,50 @@
+running clean
+'build/temp.linux-x86_64-2.7' does not exist -- can't clean it
+'build/lib.linux-x86_64-2.7' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-2.7' does not exist -- can't clean it
+running sdist
+running egg_info
+creating f10_new_block.egg-info
+writing f10_new_block.egg-info/PKG-INFO
+writing namespace_packages to f10_new_block.egg-info/namespace_packages.txt
+writing top-level names to f10_new_block.egg-info/top_level.txt
+writing dependency_links to f10_new_block.egg-info/dependency_links.txt
+writing manifest file 'f10_new_block.egg-info/SOURCES.txt'
+reading manifest file 'f10_new_block.egg-info/SOURCES.txt'
+writing manifest file 'f10_new_block.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt
+
+running check
+warning: check: missing required meta-data: url
+
+warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+
+creating f10_new_block-1.0.dev0
+creating f10_new_block-1.0.dev0/dongcai_block
+creating f10_new_block-1.0.dev0/f10_new_block.egg-info
+copying files to f10_new_block-1.0.dev0...
+copying setup.py -> f10_new_block-1.0.dev0
+copying dongcai_block/__init__.py -> f10_new_block-1.0.dev0/dongcai_block
+copying dongcai_block/block_group.py -> f10_new_block-1.0.dev0/dongcai_block
+copying dongcai_block/block_read.py -> f10_new_block-1.0.dev0/dongcai_block
+copying dongcai_block/block_section_dc.py -> f10_new_block-1.0.dev0/dongcai_block
+copying dongcai_block/block_section_stock_dc.py -> f10_new_block-1.0.dev0/dongcai_block
+copying dongcai_block/block_write.py -> f10_new_block-1.0.dev0/dongcai_block
+copying dongcai_block/section_builder.py -> f10_new_block-1.0.dev0/dongcai_block
+copying f10_new_block.egg-info/PKG-INFO -> f10_new_block-1.0.dev0/f10_new_block.egg-info
+copying f10_new_block.egg-info/SOURCES.txt -> f10_new_block-1.0.dev0/f10_new_block.egg-info
+copying f10_new_block.egg-info/dependency_links.txt -> f10_new_block-1.0.dev0/f10_new_block.egg-info
+copying f10_new_block.egg-info/namespace_packages.txt -> f10_new_block-1.0.dev0/f10_new_block.egg-info
+copying f10_new_block.egg-info/top_level.txt -> f10_new_block-1.0.dev0/f10_new_block.egg-info
+copying f10_new_block.egg-info/zip-safe -> f10_new_block-1.0.dev0/f10_new_block.egg-info
+not copying f10_new_block.egg-info/SOURCES.txt (output up-to-date)
+Reading configuration from f10_new_block-1.0.dev0/setup.cfg
+Adding new section [egg_info] to f10_new_block-1.0.dev0/setup.cfg
+Setting egg_info.tag_build to '' in f10_new_block-1.0.dev0/setup.cfg
+Setting egg_info.tag_date to 0 in f10_new_block-1.0.dev0/setup.cfg
+Setting egg_info.tag_svn_revision to 0 in f10_new_block-1.0.dev0/setup.cfg
+Writing f10_new_block-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'f10_new_block-1.0.dev0' (and everything under it)

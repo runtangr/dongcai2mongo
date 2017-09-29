@@ -1,0 +1,48 @@
+running clean
+'build/temp.linux-x86_64-2.7' does not exist -- can't clean it
+'build/lib.linux-x86_64-2.7' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-2.7' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build/lib.linux-x86_64-2.7
+creating build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/block_section_stock_dc.py -> build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/block_write.py -> build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/block_read.py -> build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/block_section_dc.py -> build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/__init__.py -> build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/section_builder.py -> build/lib.linux-x86_64-2.7/dongcai_block
+copying dongcai_block/block_group.py -> build/lib.linux-x86_64-2.7/dongcai_block
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64
+creating build/bdist.linux-x86_64/wheel
+creating build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/block_section_stock_dc.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/block_write.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/block_read.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/block_section_dc.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/__init__.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/section_builder.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+copying build/lib.linux-x86_64-2.7/dongcai_block/block_group.py -> build/bdist.linux-x86_64/wheel/dongcai_block
+running install_egg_info
+running egg_info
+writing f10_new_block.egg-info/PKG-INFO
+writing namespace_packages to f10_new_block.egg-info/namespace_packages.txt
+writing top-level names to f10_new_block.egg-info/top_level.txt
+writing dependency_links to f10_new_block.egg-info/dependency_links.txt
+reading manifest file 'f10_new_block.egg-info/SOURCES.txt'
+writing manifest file 'f10_new_block.egg-info/SOURCES.txt'
+Copying f10_new_block.egg-info to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info
+Copying PKG-INFO to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info/PKG-INFO
+Copying top_level.txt to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info/top_level.txt
+Copying zip-safe to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info/zip-safe
+Copying SOURCES.txt to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info/SOURCES.txt
+Copying dependency_links.txt to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info/dependency_links.txt
+Copying namespace_packages.txt to build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0-py2.7.egg-info/namespace_packages.txt
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/f10_new_block-1.0.dev0.dist-info/WHEEL

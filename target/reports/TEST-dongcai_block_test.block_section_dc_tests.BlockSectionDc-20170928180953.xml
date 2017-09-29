@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="1" failures="0" name="dongcai_block_test.block_section_dc_tests.BlockSectionDc-20170928180953" skipped="0" tests="1" time="0.000">
+	<testcase classname="dongcai_block_test.block_section_dc_tests.BlockSectionDc" name="test_write_block" time="0.000">
+		<error message="global name 'MongoClient' is not defined" type="NameError">
+<![CDATA[Traceback (most recent call last):
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_section_dc_tests.py", line 27, in test_write_block
+    db = self._connect_mongo()
+  File "/home/tangr/work/f10_project/f10_new_block/src/unittest/python/dongcai_block_test/block_section_dc_tests.py", line 21, in _connect_mongo
+    client = MongoClient(host)
+NameError: global name 'MongoClient' is not defined
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
