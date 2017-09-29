@@ -3,6 +3,8 @@ FROM python:2.7
 ADD ./src /app/src
 
 ADD requirements.txt /app/requirements.txt
+ADD dongcai_block_data.txt /app/dongcai_block_data.txt
+
 ADD get_block_data.py /app/get_block_data.py
 
 workdir /app/
