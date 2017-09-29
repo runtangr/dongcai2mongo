@@ -1,7 +1,7 @@
 FROM python:2.7
 
 ADD ./src /app/src
-ADD ./docs /app/docs
+
 ADD requirements.txt /app/requirements.txt
 
 
