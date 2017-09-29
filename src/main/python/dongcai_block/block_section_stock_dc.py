@@ -17,7 +17,7 @@ def write_block_stock(db, block_datas):
 
 if __name__ == '__main__':
 
-	file_path = "2017-09-27.txt"
+	file_path = "dongcai_block_data.txt"
 	db = connect_mongo()
 	
 	block_datas = read_file(file_path)

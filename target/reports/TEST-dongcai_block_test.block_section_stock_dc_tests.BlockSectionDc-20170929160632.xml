@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="dongcai_block_test.block_section_stock_dc_tests.BlockSectionDc-20170929160632" skipped="0" tests="1" time="0.167">
+	<testcase classname="dongcai_block_test.block_section_stock_dc_tests.BlockSectionDc" name="test_write_block_stock" time="0.167"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[/home/tangr/work/f10_project/f10_new_block/src/main/python/dongcai_block/block_read.py:25: UnicodeWarning: Unicode equal comparison failed to convert both arguments to Unicode - interpreting them as being unequal
+  if data["TypeName"] == type_name:
+]]>	</system-err>
+</testsuite>

@@ -19,7 +19,7 @@ def write_block(db, block_datas, gps):
 
 if __name__ == '__main__':
 
-	file_path = "2017-09-27.txt"
+	file_path = "dongcai_block_data.txt"
 	db = connect_mongo()
 
 	remove_block(db)

@@ -12,7 +12,7 @@ from dongcai_block import block_read
 
 class BlockSectionDc(unittest.TestCase):
     def _read_data(self):
-        file_path = "2017-09-27.txt"
+        file_path = "dongcai_block_data.txt"
         with open(file_path) as json_file:
             self._block_data = json.load(json_file)
 
