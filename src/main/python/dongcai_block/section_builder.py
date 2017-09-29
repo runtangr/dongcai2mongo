@@ -22,7 +22,7 @@ def section_build_stock(source):
     dest["SectionNameH"] = source["TypeName"]
     dest["SectionName"] = source["TypeName"]
     dest["PlateCode"] = source["SysCode"]
-    dest["SectionLevel"] = "0"
+    dest["SectionLevel"] = 1
     dest["MarketCode"] = source["Code"][:2]
     dest["StockCode"] = source["Code"][2:]
     dest["Obj"] = source["Code"]
@@ -55,7 +55,7 @@ def section_build(source, gps):
     
     dest["ClassId"] = source["SysCode"][2:]
     dest["SysCode"] = source["SysCode"][:2]
-    dest["SectionLevel"] = "0"
+    dest["SectionLevel"] = 1
     dest["PlateCode"] = source["SysCode"]
     dest["SectionNameH"] = source["TypeName"]
     dest["SectionName"] = source["TypeName"]
