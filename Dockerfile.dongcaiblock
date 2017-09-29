@@ -4,6 +4,7 @@ ADD ./src /app/src
 
 ADD requirements.txt /app/requirements.txt
 
+ADD dongcai_block_data.txt /app/dongcai_block_data.txt
 
 workdir /app/
 
