@@ -14,20 +14,20 @@ def section_build_stock(source):
                     "StockCode":"600639",
                     "StockShortName":"浦东金桥",
                     "Obj":"SH600639",
-                    "bzzb":0,
+                    "bzzb":1,
     }
     
     dest["ClassId"] = source["SysCode"][2:]
-    dest["SysCode"] = source["PlateName"]
+    dest["SysCode"] = source["SysCode"][:2]
     dest["SectionNameH"] = source["TypeName"]
     dest["SectionName"] = source["TypeName"]
     dest["PlateCode"] = source["SysCode"]
-    dest["SectionLevel"] = "0"
+    dest["SectionLevel"] = 1
     dest["MarketCode"] = source["Code"][:2]
     dest["StockCode"] = source["Code"][2:]
     dest["Obj"] = source["Code"]
     dest["StockShortName"] = source["Name"]
-    dest["bzzb"] = 0
+    dest["bzzb"] = 1
 
     # dest["ClassId"] = source["Name"]
     # dest["ClassId"] = source["Name"]
@@ -54,8 +54,8 @@ def section_build(source, gps):
     }
     
     dest["ClassId"] = source["SysCode"][2:]
-    dest["SysCode"] = source["PlateName"]
-    dest["SectionLevel"] = "0"
+    dest["SysCode"] = source["SysCode"][:2]
+    dest["SectionLevel"] = 1
     dest["PlateCode"] = source["SysCode"]
     dest["SectionNameH"] = source["TypeName"]
     dest["SectionName"] = source["TypeName"]

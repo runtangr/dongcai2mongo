@@ -19,6 +19,20 @@ def connect_mongo():
 	db = client.F10data3
 	return db
 
+def block_view_stock(block_data, type_name):
+	block_views = []
+	for data in  block_data:
+	    if data["TypeName"] == type_name:
+	        # print(data)
+	        # print(data["Name"])
+	        # print(data["Code"])
+	        # print(data["PlateName"])
+	        # print(data["TypeName"])
+	        block_views.append(data)
+
+	return block_views
+
+
 def block_view(block_data, type_name):
 	block_views = []
 	for data in  block_data:
@@ -29,5 +43,6 @@ def block_view(block_data, type_name):
 	        # print(data["PlateName"])
 	        # print(data["TypeName"])
 	        block_views.append(data)
+	        break
 
 	return block_views

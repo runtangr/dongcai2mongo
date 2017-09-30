@@ -6,7 +6,7 @@ from block_write import save_block_section_stock
 from section_builder import section_build_stock
 from block_remove import remove_block_stock
 from block_group import block_group
-from block_read import block_view
+from block_read import block_view_stock
 
 def write_block_stock(db, block_datas):
 
@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
 	for type_name in block_groups_dict.keys():
 		
-		type_data= block_view(block_datas, type_name)
+		type_data= block_view_stock(block_datas, type_name)
 
 		write_block_stock(db, type_data)
 

@@ -117,7 +117,7 @@
 <p id="t6" class="stm run hide_run"><span class="key">from</span> <span class="nam">section_builder</span> <span class="key">import</span> <span class="nam">section_build_stock</span><span class="strut">&nbsp;</span></p>
 <p id="t7" class="stm run hide_run"><span class="key">from</span> <span class="nam">block_remove</span> <span class="key">import</span> <span class="nam">remove_block_stock</span><span class="strut">&nbsp;</span></p>
 <p id="t8" class="stm run hide_run"><span class="key">from</span> <span class="nam">block_group</span> <span class="key">import</span> <span class="nam">block_group</span><span class="strut">&nbsp;</span></p>
-<p id="t9" class="stm run hide_run"><span class="key">from</span> <span class="nam">block_read</span> <span class="key">import</span> <span class="nam">block_view</span><span class="strut">&nbsp;</span></p>
+<p id="t9" class="stm run hide_run"><span class="key">from</span> <span class="nam">block_read</span> <span class="key">import</span> <span class="nam">block_view_stock</span><span class="strut">&nbsp;</span></p>
 <p id="t10" class="pln"><span class="strut">&nbsp;</span></p>
 <p id="t11" class="stm run hide_run"><span class="key">def</span> <span class="nam">write_block_stock</span><span class="op">(</span><span class="nam">db</span><span class="op">,</span> <span class="nam">block_datas</span><span class="op">)</span><span class="op">:</span><span class="strut">&nbsp;</span></p>
 <p id="t12" class="pln"><span class="strut">&nbsp;</span></p>
@@ -141,7 +141,7 @@
 <p id="t30" class="pln"><span class="strut">&nbsp;</span></p>
 <p id="t31" class="stm mis">        <span class="key">for</span> <span class="nam">type_name</span> <span class="key">in</span> <span class="nam">block_groups_dict</span><span class="op">.</span><span class="nam">keys</span><span class="op">(</span><span class="op">)</span><span class="op">:</span><span class="strut">&nbsp;</span></p>
 <p id="t32" class="pln"><span class="strut">&nbsp;</span></p>
-<p id="t33" class="stm mis">                <span class="nam">type_data</span><span class="op">=</span> <span class="nam">block_view</span><span class="op">(</span><span class="nam">block_datas</span><span class="op">,</span> <span class="nam">type_name</span><span class="op">)</span><span class="strut">&nbsp;</span></p>
+<p id="t33" class="stm mis">                <span class="nam">type_data</span><span class="op">=</span> <span class="nam">block_view_stock</span><span class="op">(</span><span class="nam">block_datas</span><span class="op">,</span> <span class="nam">type_name</span><span class="op">)</span><span class="strut">&nbsp;</span></p>
 <p id="t34" class="pln"><span class="strut">&nbsp;</span></p>
 <p id="t35" class="stm mis">                <span class="nam">write_block_stock</span><span class="op">(</span><span class="nam">db</span><span class="op">,</span> <span class="nam">type_data</span><span class="op">)</span><span class="strut">&nbsp;</span></p>
 <p id="t36" class="pln"><span class="strut">&nbsp;</span></p>
@@ -156,7 +156,7 @@
     <div class="content">
         <p>
             <a class="nav" href="index.html">&#xab; index</a> &nbsp; &nbsp; <a class="nav" href="https://coverage.readthedocs.io">coverage.py v4.3.4</a>,
-            created at 2017-09-29 16:04
+            created at 2017-09-30 11:19
         </p>
     </div>
 </div>

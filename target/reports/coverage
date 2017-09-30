@@ -2,11 +2,11 @@ Name                                      Stmts   Miss Branch BrPart  Cover
 ---------------------------------------------------------------------------
 dongcai_block.py                              0      0      0      0   100%
 dongcai_block/block_group.py                  8      0      2      0   100%
-dongcai_block/block_read.py                  20      8      4      1    63%
+dongcai_block/block_read.py                  27     14      8      1    46%
 dongcai_block/block_remove.py                 6      0      0      0   100%
 dongcai_block/block_section_dc.py            20     10      8      1    39%
 dongcai_block/block_section_stock_dc.py      20      8      8      3    54%
 dongcai_block/block_write.py                  8      0      0      0   100%
 dongcai_block/section_builder.py             27     11      0      0    59%
 ---------------------------------------------------------------------------
-TOTAL                                       109     37     22      5    62%
+TOTAL                                       116     43     26      5    58%

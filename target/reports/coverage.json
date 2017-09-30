@@ -80,10 +80,10 @@
       "sum_lines_not_covered": 0
     }, 
     {
-      "branches": 4, 
-      "branches_missing": 1, 
+      "branches": 8, 
+      "branches_missing": 5, 
       "branches_partial": 1, 
-      "coverage": 60, 
+      "coverage": 48, 
       "lines": [
         2, 
         3, 
@@ -104,7 +104,14 @@
         24, 
         25, 
         31, 
-        33
+        33, 
+        36, 
+        37, 
+        38, 
+        39, 
+        45, 
+        46, 
+        48
       ], 
       "lines_not_covered": [
         11, 
@@ -114,11 +121,17 @@
         18, 
         19, 
         20, 
-        31
+        23, 
+        24, 
+        25, 
+        31, 
+        33, 
+        45, 
+        46
       ], 
       "module": "dongcai_block.block_read", 
-      "sum_lines": 20, 
-      "sum_lines_not_covered": 8
+      "sum_lines": 27, 
+      "sum_lines_not_covered": 14
     }, 
     {
       "branches": 8, 
@@ -246,7 +259,7 @@
       "sum_lines_not_covered": 0
     }
   ], 
-  "overall_branch_coverage": 40, 
-  "overall_branch_partial_coverage": 77, 
-  "overall_coverage": 66
+  "overall_branch_coverage": 34, 
+  "overall_branch_partial_coverage": 80, 
+  "overall_coverage": 62
 }
