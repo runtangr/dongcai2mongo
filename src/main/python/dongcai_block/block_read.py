@@ -14,8 +14,9 @@ def read_file(file_path):
 
 def connect_mongo():
 
-	host = os.environ.get('MYDB_PORT_27017_TCP_ADDR',"127.0.0.1")
-	client = MongoClient(host)
+	host = os.environ.get('MYDB_IP_ADDR',"127.0.0.1")
+	port = os.environ.get('MYDB_PORT',27017)
+	client = MongoClient(host, port)
 	db = client.F10data3
 	return db
 
