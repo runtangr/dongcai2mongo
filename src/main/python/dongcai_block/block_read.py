@@ -16,7 +16,7 @@ def connect_mongo():
 
 	host = os.environ.get('MYDB_IP_ADDR',"127.0.0.1")
 	port = os.environ.get('MYDB_PORT',27017)
-	client = MongoClient(host, port)
+	client = MongoClient(host, int(port))
 	db = client.F10data3
 	return db
 
