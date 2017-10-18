@@ -16,9 +16,14 @@ def section_build_stock(source):
                     "Obj":"SH600639",
                     "bzzb":1,
     }
+    SysCodeSwitch = {
+                    'DD':1001,
+                    'DG':1002,
+                    'DH':1003,
+    }
     
     dest["ClassId"] = source["SysCode"][2:]
-    dest["SysCode"] = source["SysCode"][:2]
+    dest["SysCode"] = SysCodeSwitch[source["SysCode"][:2]]
     dest["SectionNameH"] = source["TypeName"]
     dest["SectionName"] = source["TypeName"]
     dest["PlateCode"] = source["SysCode"]
@@ -52,9 +57,15 @@ def section_build(source, gps):
                 "ComputerType":1,    
                 "ShortCode":"A"
     }
+    SysCodeSwitch = {
+                    'DD':1001,
+                    'DG':1002,
+                    'DH':1003,
+    }
+    
     
     dest["ClassId"] = source["SysCode"][2:]
-    dest["SysCode"] = source["SysCode"][:2]
+    dest["SysCode"] = SysCodeSwitch[source["SysCode"][:2]]
     dest["SectionLevel"] = 1
     dest["PlateCode"] = source["SysCode"]
     dest["SectionNameH"] = source["TypeName"]
