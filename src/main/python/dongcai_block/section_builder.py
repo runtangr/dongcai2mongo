@@ -1,7 +1,9 @@
 #encoding=utf-8
+import datetime
 def section_build_stock(source):
     dest = {}
 
+    date_now = datetime.datetime.now()
     block_data = {
                     "ClassId": "00451", 
                  
@@ -33,6 +35,7 @@ def section_build_stock(source):
     dest["Obj"] = source["Code"]
     dest["StockShortName"] = source["Name"]
     dest["bzzb"] = 1
+    dest["UpdateDateTime"] = date_now - datetime.timedelta(hours=8)
 
     # dest["ClassId"] = source["Name"]
     # dest["ClassId"] = source["Name"]
@@ -46,6 +49,7 @@ def section_build_stock(source):
 def section_build(source, gps):
     dest = {}
 
+    date_now = datetime.datetime.now()
     block_data = {
                 "ClassId": "00498",
                 "SysCode":"概念板块", 
@@ -74,6 +78,7 @@ def section_build(source, gps):
     dest["gps"] = gps
 
     dest["ComputerType"] = 1
+    dest["UpdateDateTime"] = date_now - datetime.timedelta(hours=8)
     # dest["ShortCode"] =  source["TypeZm"]    
     
     
