@@ -33,7 +33,7 @@ def section_build_stock(source):
     dest["MarketCode"] = source["Code"][:2]
     dest["StockCode"] = source["Code"][2:]
     dest["Obj"] = source["Code"]
-    dest["StockShortName"] = source["Name"]
+    # dest["StockShortName"] = source["Name"]
     dest["bzzb"] = 1
     dest["UpdateDateTime"] = date_now - datetime.timedelta(hours=8)
 
