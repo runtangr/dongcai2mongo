@@ -22,9 +22,9 @@ if __name__ == '__main__':
 	file_path = "dongcai_block_data.txt"
 	db = connect_mongo()
 
-	remove_block(db)
-	
 	block_datas = read_file(file_path)
+
+	remove_block(db)
 
 	block_groups_dict = block_group(block_datas)
 
